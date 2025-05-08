@@ -42,15 +42,20 @@ Position your hand in the right side detection box
 
 Make one of these gestures 
 
-✊ Closed fist = Rock
-
-✋ Open palm = Paper
-
-✌️ Two fingers = Scissors
+✊ Closed fist = Rock <br>
+✋ Open palm = Paper <br>
+✌️ Two fingers = Scissors <br>
 
 The computer will automatically respond
 
-First to win 3 rounds wins the match!
+First to win 3 rounds wins the match! <br> 
+
+## 🎮 Game Rules
+✊ Rock crushes ✌️ Scissors <br>
+✌️ Scissors cuts 📄 Paper <br>
+📄 Paper covers ✊ Rock <br>
+🔄 If both gestures match, it's a 🤝 Tie
+
 ## Features
 - Real-time ✊✋✌️ detection using webcam
 - Interactive score tracking
