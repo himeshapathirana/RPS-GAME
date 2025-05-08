@@ -4,6 +4,32 @@
   <img src="Resources/start.png" width="600"/>
 </div>
 
+## 📌 Project Overview 
+This project is an interactive Rock-Paper-Scissors Game where players can compete against the computer by posing hand gestures. Using image processing techniques, the system captures the user's gesture, processes it to identify whether it's "Rock," "Paper," or "Scissors," and determines the winner based on classic game rules. The application is built with Python and showcases real-time image processing visualization.
+
+## 🛠️ Technologies Used
+
+Programming Language: Python
+
+Libraries: OpenCV
+
+Image Processing Techniques: Greyscale, Thresholding, Background Removal, Contour Detection
+
+Visualization: Matplotlib for step-by-step image transformations
+
+## 🔄 How to Run the Application
+1. Clone the repository <br>
+   git clone <repository-url>
+   
+2. Navigate to the project directory <br>
+   cd rock-paper-scissors
+
+3. Install the dependencies <br>
+   pip install -r requirements.txt
+
+4. Run the application
+   python main.py
+
 ## Game Screens
 
 <div align="center">
@@ -31,6 +57,8 @@ First to win 3 rounds wins the match!
 - Best of 5 rounds system
 - Animated countdown timer
 - Responsive full screen UI
+- User-friendly interface with smooth gameplay.
+- Error handling and feedback for better user experience.
 
 ## Controls
 
